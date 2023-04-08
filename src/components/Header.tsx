@@ -1,11 +1,11 @@
 import React from "react";
-import { DATA } from "@/pages/lib/data";
+import { Data } from "@/lib/data";
 import { theme } from "@/styles/theme";
 import { Flex, Heading, Image, Text } from "@chakra-ui/react";
 import { SocialLinks } from "./SocialLinks";
 
 export function Header() {
-  const { user } = DATA
+  const { user } = Data
     return (
         <Flex 
             // position={'relative'}

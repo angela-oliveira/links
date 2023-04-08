@@ -1,9 +1,9 @@
-import { DATA } from "@/pages/lib/data"
+import { Data } from "@/lib/data"
 import { Flex, Link, Text } from "@chakra-ui/react"
 import DynamicIcon from "./DynamicIcon"
 
 export function ListLinks() {
-    const {links} = DATA
+    const {links} = Data
     return (
         <Flex justifyContent={'center'} mt={4} mb={8}>
             <Flex flexDir={'column'} gap={4}>

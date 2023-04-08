@@ -1,11 +1,11 @@
 import React from "react";
 import Head from 'next/head'
 import { Header } from '@/components/Header'
-import { DATA } from './lib/data'
+import { Data } from '../lib/data'
 import { ListLinks } from "@/components/ListLinks";
 
 export default function Home() {
-  const { user } = DATA
+  const { user } = Data
   return (
     <>
       <Head>
