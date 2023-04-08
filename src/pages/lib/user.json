@@ -1,0 +1,28 @@
+{
+  "fullname": "Ângela Oliveira",
+  "role": "Dev Full Stack | Fotógrafa",
+  "image": "https://raw.githubusercontent.com/angela-oliveira/avatar/main/img-4086.webp",
+
+  "socialLinks": [
+    {
+      "title": "linkedin",
+      "link": "https://www.linkedin.com/in/angela-mr-oliveira/",
+      "icon": "linkedin"
+    },
+    {
+      "title": "github",
+      "link": "https://github.com/angela-oliveira",
+      "icon": "github"
+    },
+    {
+      "title": "instagram",
+      "link": "https://www.instagram.com/angelaoliveira.tech/",
+      "icon": "instagram"
+    },
+    {
+      "title": "behance",
+      "link": "https://www.behance.net/angelaoliveira-ux",
+      "icon": "behance"
+    }
+  ]
+}

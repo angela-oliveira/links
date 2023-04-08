@@ -1,0 +1,40 @@
+[
+  {
+    "label": "Linkedin",
+    "categoryId": "linkedin",
+    "url": "https://www.linkedin.com/in/angela-mr-oliveira/"
+  },
+  {
+    "label": "Github",
+    "categoryId": "github",
+    "url": "https://github.com/angela-oliveira"
+  },
+  {
+    "label": "Behance",
+    "categoryId": "behance",
+    "url": "https://www.behance.net/angelaoliveira-ux"
+  },
+  {
+    "label": "Fotografia",
+    "categoryId": "instagram",
+    "url": "https://www.instagram.com/angelaoliveirafotografia/"
+  },
+
+  {
+    "label": "Capela Fotografia",
+    "categoryId": "instagram",
+    "url": "https://www.instagram.com/capelafotografia/"
+  },
+
+  {
+    "label": "Capela Estúdio",
+    "categoryId": "instagram",
+    "url": "https://www.instagram.com/capelaestudio/"
+  },
+
+  {
+    "label": "Fotos de viagens",
+    "categoryId": "instagram",
+    "url": "https://www.instagram.com/statusviagem/"
+  }
+]
