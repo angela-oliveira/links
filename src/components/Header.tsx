@@ -32,6 +32,7 @@ export function Header() {
                 <Image 
                     src="https://raw.githubusercontent.com/angela-oliveira/avatar/main/img-4086.webp" 
                     width={150}
+                    alt="avatar"
                     height={150}
                     objectFit={'cover'}
                     borderRadius={'50%'}
